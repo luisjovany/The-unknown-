@@ -1,0 +1,7 @@
+{
+  "name": "polymer-proyecto",
+  "short_name": "polymer-proyecto",
+  "description": "Proyecto polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
